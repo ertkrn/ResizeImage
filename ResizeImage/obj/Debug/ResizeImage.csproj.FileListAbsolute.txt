@@ -1,0 +1,10 @@
+c:\users\ertugrul\source\repos\ResizeImage\ResizeImage\bin\Debug\ResizeImage.exe.config
+c:\users\ertugrul\source\repos\ResizeImage\ResizeImage\bin\Debug\ResizeImage.exe
+c:\users\ertugrul\source\repos\ResizeImage\ResizeImage\bin\Debug\ResizeImage.pdb
+c:\users\ertugrul\source\repos\ResizeImage\ResizeImage\obj\Debug\ResizeImage.csprojAssemblyReference.cache
+c:\users\ertugrul\source\repos\ResizeImage\ResizeImage\obj\Debug\ResizeImage.Form1.resources
+c:\users\ertugrul\source\repos\ResizeImage\ResizeImage\obj\Debug\ResizeImage.Properties.Resources.resources
+c:\users\ertugrul\source\repos\ResizeImage\ResizeImage\obj\Debug\ResizeImage.csproj.GenerateResource.cache
+c:\users\ertugrul\source\repos\ResizeImage\ResizeImage\obj\Debug\ResizeImage.csproj.CoreCompileInputs.cache
+c:\users\ertugrul\source\repos\ResizeImage\ResizeImage\obj\Debug\ResizeImage.exe
+c:\users\ertugrul\source\repos\ResizeImage\ResizeImage\obj\Debug\ResizeImage.pdb
